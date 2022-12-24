@@ -53,3 +53,41 @@
     font-weight: 100;
     color: #1F2937;
 }
+
+.containersec5{
+    background-color: #3882f6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 50px;
+}
+
+.right{
+  border-radius: 10px;
+  border: 2px solid white;
+  padding: 10px;
+  width: 120px;
+  color: white;
+  text-align: center;
+  font-weight: 530;
+  height: 20px;
+}
+
+.heading{
+    color: white;
+    font-size: 24px;
+    width: 700px;
+}
+
+.sub{
+    color: lightgray;
+
+    font-weight: 100;
+}
+
+.sec5{
+    margin: 200px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
